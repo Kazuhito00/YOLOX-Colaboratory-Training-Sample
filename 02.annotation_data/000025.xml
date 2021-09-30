@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>000025.jpg</filename>
+    <path>NanoDet-Training-Sample-PascalVOC-export/Annotations/000025.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>960</width>
+        <height>540</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Fish</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>149.2333011247069</xmin>
+        <ymin>390.95159339904785</ymin>
+        <xmax>286.0867663760258</xmax>
+        <ymax>480.0515384674072</ymax>
+    </bndbox>
+</object><object>
+    <name>Fish</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>485.06447831184056</xmin>
+        <ymin>407.1515522003174</ymin>
+        <xmax>751.5685677388628</xmax>
+        <ymax>517.8515796661377</ymax>
+    </bndbox>
+</object><object>
+    <name>Fish</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>596.7081028355803</xmin>
+        <ymin>329.75156593322754</ymin>
+        <xmax>767.774925813306</xmax>
+        <ymax>390.95159339904785</ymax>
+    </bndbox>
+</object><object>
+    <name>Fish</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>367.1184193654748</xmin>
+        <ymin>73.25156593322754</ymin>
+        <xmax>434.64479685668226</xmax>
+        <ymax>149.75156593322754</ymax>
+    </bndbox>
+</object>
+</annotation>

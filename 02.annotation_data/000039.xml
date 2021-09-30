@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>000039.jpg</filename>
+    <path>NanoDet-Training-Sample-PascalVOC-export/Annotations/000039.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>960</width>
+        <height>540</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Fish</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>856.0094198783704</xmin>
+        <ymin>416.1515522003174</ymin>
+        <xmax>960</xmax>
+        <ymax>511.5515384674072</ymax>
+    </bndbox>
+</object><object>
+    <name>Fish</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>761.4724913906799</xmin>
+        <ymin>336.0515384674072</ymin>
+        <xmax>810.991834884232</xmax>
+        <ymax>441.3515796661377</ymax>
+    </bndbox>
+</object><object>
+    <name>Fish</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>734.461940394197</xmin>
+        <ymin>134.45155906677246</ymin>
+        <xmax>871.3153712998242</xmax>
+        <ymax>208.25156593322754</ymax>
+    </bndbox>
+</object><object>
+    <name>Fish</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>685.8429348622509</xmin>
+        <ymin>246.05157279968262</ymin>
+        <xmax>720.9566648959554</xmax>
+        <ymax>317.1515522003174</ymax>
+    </bndbox>
+</object><object>
+    <name>Fish</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>623.7186538320633</xmin>
+        <ymin>165.95155906677246</ymin>
+        <xmax>667.8359008645955</xmax>
+        <ymax>205.55157279968262</ymax>
+    </bndbox>
+</object><object>
+    <name>Fish</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>386.9261292863423</xmin>
+        <ymin>66.95155906677246</ymin>
+        <xmax>541.7866628810082</xmax>
+        <ymax>147.05157279968262</ymax>
+    </bndbox>
+</object>
+</annotation>
