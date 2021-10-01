@@ -57,6 +57,8 @@ Pascal VOC形式で出力したアノテーションデータを前提として�
 1. 推論テスト(Inference test)
 1. ONNX変換(Convert to ONNX)
 
+※「nano.py」のオリジナルファイルは「[Megvii-BaseDetection/YOLOX/exps/default](https://github.com/Megvii-BaseDetection/YOLOX/tree/main/exps/default)」に格納されています
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
