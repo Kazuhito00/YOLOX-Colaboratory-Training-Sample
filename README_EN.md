@@ -55,6 +55,8 @@ Open your notebook from the [Open In Colab] link and run it in the following ord
     1. Number of epochs<br>self.max_epoch
 1. 推論テスト(Inference test)
 1. ONNX変換(Convert to ONNX)
+  
+※The original file of "nano.py" is stored in "[Megvii-BaseDetection/YOLOX/exps/default](https://github.com/Megvii-BaseDetection/YOLOX/tree/main/exps/default)"
 
 # Author
 Kazuhito Takahashi(https://twitter.com/KzhtTkhs)
