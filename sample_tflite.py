@@ -6,7 +6,7 @@ import argparse
 
 import cv2
 
-from yolox.yolox_onnx import YoloxONNX
+from yolox.yolox_tflite import YoloxTFLite
 
 
 def get_args():
@@ -21,7 +21,7 @@ def get_args():
     parser.add_argument(
         "--model",
         type=str,
-        default='04.model/yolox_nano.onnx',
+        default='04.model/yolox_nano_float16_quantize.tflite',
     )
     parser.add_argument(
         '--input_shape',
@@ -83,7 +83,7 @@ def main():
         cap.set(cv2.CAP_PROP_FRAME_HEIGHT, cap_height)
 
     # モデルロード #############################################################
-    yolox = YoloxONNX(
+    yolox = YoloxTFLite(
         model_path=model_path,
         input_shape=input_shape,
         class_score_th=score_th,
