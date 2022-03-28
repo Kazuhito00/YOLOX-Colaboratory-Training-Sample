@@ -3,7 +3,7 @@
 # YOLOX-Colaboratory-Training-Sample
 <img src="https://user-images.githubusercontent.com/37477845/135489488-c55996d8-d32f-4612-8c99-8cdc37f7e7b2.gif" width="60%"><br>
 
-[YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)をGoogle Colaboratory上で訓練しONNX形式のファイルをエクスポートするサンプルです。<br>
+[YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)をGoogle Colaboratory上で訓練しONNX、TensorFlow-Lite形式のファイルをエクスポートするサンプルです。<br>
 以下の内容を含みます。<br>
 * データセット ※アノテーション未実施
 * データセット ※アノテーション済み

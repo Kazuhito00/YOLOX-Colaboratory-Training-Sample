@@ -3,7 +3,7 @@
 # YOLOX-Colaboratory-Training-Sample
 <img src="https://user-images.githubusercontent.com/37477845/135489488-c55996d8-d32f-4612-8c99-8cdc37f7e7b2.gif" width="60%"><br>
 
-This is a sample to train [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) on Google Colaboratory and export a file in ONNX format.<br>
+This is a sample to train [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) on Google Colaboratory and export a file in ONNX format and TensorFlow-Lite format.<br>
 It includes the following contents.<br>
 * Data set(Annotation not implemented)
 * Data set(Annotated)
